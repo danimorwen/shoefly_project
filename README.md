@@ -2,6 +2,8 @@
 
 ## A/B Testing for ShoeFly.com
 
+### Codecademy Aggregates in Pandas Project
+
 Our favorite online shoe store, ShoeFly.com is performing an A/B Test. 
 
 They have two different versions of an ad, which they have placed in emails, as well as in banner ads on Facebook, Twitter, and Google. 
